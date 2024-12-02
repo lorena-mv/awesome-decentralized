@@ -8,30 +8,30 @@
 <!-- TwoFold sort lines -->
 <sortLines>
 
-* [Aether](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
-* [Agregore](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
+* [Aether](https://github.com/aethereans/aether-app): `AGPL` `JavaScript` P2P ephemeral public communities. Open source, self-governing.  
+* [Agregore](https://github.com/AgregoreWeb/agregore-browser): `AGPL` `JavaScript` A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
 * [airpaste ☠️](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
-* [Airshare](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
-* [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
-* [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
-* [Berty](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
-* [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
-* [Cabal](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
-* [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
-* [Cactus Comments](https://cactus.chat/): Federated comment system for the open web built on Matrix.
-* [croc](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
-* [Cryptor](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
-* [Dat desktop app](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
-* [Databag](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
-* [DB3 Network](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
-* [Deltachat](https://delta.chat): Delta Chat is like Telegram or Whatsapp but without the tracking or central control. It doesn't have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat, all you need is a standard e-mail account.
-* [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
-* [Diaspora](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
+* [Airshare](https://github.com/KuroLabs/Airshare): `MIT` `Python` CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
+* [AKASHA](https://akasha.world): `AGPL` `TypeScript` A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
+* [Beaker ☠️](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
+* [Berty](https://github.com/berty/berty): `Apache | MIT` `Go, TypeScript` secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+* [Bitmessage](https://bitmessage.org): `MIT` `Go` P2P communications protocol used to send encrypted messages to another person or to many subscribers.
+* [Cabal](https://github.com/cabal-club/cabal-desktop): `AGPL` `JavaScript` P2P community offline-first chat platform.
+* [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): `MIT` `JavaScript` highly distributed cache platform based on WebTorrent and runs only in the browser.
+* [Cactus Comments](https://cactus.chat/): `AGPL` `Python` Federated comment system for the open web built on Matrix.
+* [croc](https://github.com/schollz/croc): `MIT` `Go` Easily and securely send files and folders from one computer to another in command line.
+* [Cryptor ☠️](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
+* [Dat desktop app](https://github.com/datproject/dat-desktop ☠️): Decentralized data tool for distributing data small and large.
+* [Databag](https://github.com/balzack/databag): `Apache` `JavaScript` Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
+* [DB3 Network](https://github.com/dbpunk-labs/db3): `Apache` `Rust` Decentralized Firebase Firestore Alternative
+* [Deltachat](https://delta.chat): `MPL` `Rust` Delta Chat is like Telegram or Whatsapp but without the tracking or central control. It doesn't have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat, all you need is a standard e-mail account.
+* [Demonsaw ☠️](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
+* [Diaspora](https://github.com/diaspora/diaspora): `AGPL` `Ruby` A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 * [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
-* [Dumb pipe](https://dumbpipe.dev): A unix pipe between computers. Connect A to B. Send Data.
-* [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
+* [Dumb pipe](https://github.com/n0-computer/dumbpipe): `Apache | MIT` `Rust` A unix pipe between computers. Connect A to B. Send Data.
+* [Element (Matrix client)](https://element.io): `AGPL` `TypeScript` Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 * ~[Ferment ☠️ ☠️](https://github.com/mmckegg/ferment)~: P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
-* [FileLove](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
+* [FileLove](https://github.com/midzer/filelove): `MIT` `JavaScript` Minimal p2p file transfer right in the browser, using WebTorrent.
 * [FilePizza ☠️](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Fred](https://github.com/hyphanet/fred): Freenet REference Daemon. Also: freenetproject.org
 * [Friendica](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
@@ -39,7 +39,7 @@
 * [Galacteek](https://gitlab.com/galacteek/galacteek): Browser and dapps platform for the distributed web.
 * [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 * [Hardbin](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
-* [Hidden Lake](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake): Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
+* [Hidden Lake](https://github.com/number571/hidden-lake): `MIT` `Go` Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project): General purpose platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.
 * [Hyperpad](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
 * [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
@@ -56,7 +56,7 @@
 * [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Manyverse](https://gitlab.com/staltz/manyverse): A social network off the grid. Scuttlebutt for mobile.
 * [Mastodon](https://joinmastodon.org): Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want: links, pictures, text, video. A platform that is community-owned and ad-free.
-* [Meshbird](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
+* [Meshbird](https://github.com/meshbird/meshbird): `Apache` `Go` Meshbird enables distributed private networking across geographically dispersed datacenters.
 * [Meshenger](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
 * [Mobilizon](https://joinmobilizon.org/): A federated tool that helps you find, create and organise events.
 * [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
